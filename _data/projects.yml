@@ -1,20 +1,16 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: Neural Style Transfer
+  event: Merges a content and style image using Tensorflow
+  date: Aug 2020 
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: Real Time Chatroom
+  event: Chatroom with various rooms for real time chatting
+  date: July 2020
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
+- title: Weather App
+  event: Get weather details for any city
+  date: July 2020
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: Outbreak
+  event: SIH Group project
+  date: December 2019
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
